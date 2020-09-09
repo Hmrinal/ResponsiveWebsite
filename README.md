@@ -11,3 +11,11 @@ The ```index.html``` file is a html file that contains the content and structure
 - HTML
 - CSS
 - Bootstrap
+
+## Install
+Any code editor can be used according to developers choice.
+- Visual Studio Code
+- Sublime Test editor
+- Atom
+- CodePen(online platform)
+- Google Colab
