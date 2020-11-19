@@ -5,9 +5,17 @@ This is a responsive website using html, css and bootstrap. It gives a basic ide
 
 ### Static and Dynamic Websites
 
-- Static : In static web pages, pages will remain same until someone changes it manually
+- Static : In static web pages, pages will remain same until someone changes it manually. 
+Static Web pages are simple in terms of complexity.
+HTML, JavaScript, CSS etc can come under this.
+It is very easy to create a static web pages as no advanced knowledge of programming language is required.
+Uses where only the informational part needs to be displayed to the client.
 
 - Dynamic: The content of the dynamic web page keeps on changing depending on various factors.
+Dynamic web pages are quite complicated.
+It includes CGI, AJAX, ASP, ASP.net, etc.
+Good programming knowledge is needed to create the logic of the dynamic web pages.
+Used when the interactive, changing and functional content needs to be displayed to the client.
 
 ## Basic Working:
 The ```index.html``` file is a html file that contains the content and structure of website. All the required tags are used which contain paragraphs and other all the content that we want to have in our website. After this, the designing  takes place, ```style.css``` is cascading style sheet that describes the layout of website. 
