@@ -27,6 +27,7 @@ This is a responsive website using html, css and bootstrap. It gives a basic ide
 - Content change happens frequently in the case of the dynamic web pages as the server generates the new content every time the request is sent.
 
 ## 🔨 Basic Working:  
+
 The ```index.html``` file is a html file that contains the content and structure of website. All the required tags are used which contain paragraphs and other all the content that we want to have in our website. After this, the designing  takes place, ```style.css``` is cascading style sheet that describes the layout of website. 
 
 ## Dependencies
@@ -35,7 +36,8 @@ The ```index.html``` file is a html file that contains the content and structure
 - CSS
 - Bootstrap
 
-## 📦 Install
+## 📦 Install  
+
 Any code editor can be used according to developers choice.
 - Visual Studio Code
 - Sublime Test editor
